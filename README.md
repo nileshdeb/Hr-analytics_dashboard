@@ -52,7 +52,7 @@ Power BI storytelling using interactive filters and clean design
 Real-world HR analytics applications using BI tools
 
 Screenshot-
-Example:
+Example:https://github.com/nileshdeb/Hr-analytics_dashboard/blob/main/Hr_analytics_dashboard_screenshot.png
 
 
 
